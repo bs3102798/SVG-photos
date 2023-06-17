@@ -1,0 +1,26 @@
+{
+  "dependencies": {
+    "fa": "^1.0.1",
+    "fs": "^0.0.1-security",
+    "inquirer": "^8.0.0",
+    "jest": "^29.5.0",
+    "node": "^20.2.0"
+  },
+  "name": "svg-photos",
+  "description": "",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "module",
+    "url": "git+https://github.com/bs3102798/SVG-photos.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bs3102798/SVG-photos/issues"
+  },
+  "homepage": "https://github.com/bs3102798/SVG-photos#readme"
+}
